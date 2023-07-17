@@ -1,0 +1,25 @@
+# 빌드 결과물 디렉토리
+/out/
+/build/
+/target/
+
+# IntelliJ 프로젝트 설정 디렉토리
+/.idea/
+
+# 컴파일된 클래스 파일
+*.class
+
+# macOS 임시 파일
+.DS_Store
+
+# IntelliJ IDEA 프로젝트 파일
+*.iml
+
+# IntelliJ IDEA 빌드 및 실행 설정 파일
+*.ipr
+*.iws
+*.lock
+*.probe
+*.bin
+
+.gradle
