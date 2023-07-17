@@ -6,6 +6,8 @@
 # IntelliJ 프로젝트 설정 디렉토리
 /.idea/
 
+/.gradle/*
+
 # 컴파일된 클래스 파일
 *.class
 
@@ -21,5 +23,3 @@
 *.lock
 *.probe
 *.bin
-
-.gradle
